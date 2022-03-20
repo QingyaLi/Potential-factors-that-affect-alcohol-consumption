@@ -279,10 +279,10 @@ knitr::kable(tidy(mod3), caption = "Summary table for mod3")
 
 ```{r, warning = FALSE, message = FALSE, echo = FALSE}
 tibble(anova(mod2, mod3)) %>% 
-  knitr::kable(caption = "The anova test between mod2 and mod3")
+  knitr::kable(caption = "The ANOVA test between mod2 and mod3")
 
 tibble(anova(mod2, mod1)) %>% 
-  knitr::kable(caption = "The anova test between mod2 and mod1")
+  knitr::kable(caption = "The ANOVA test between mod2 and mod1")
 ```
 
 
