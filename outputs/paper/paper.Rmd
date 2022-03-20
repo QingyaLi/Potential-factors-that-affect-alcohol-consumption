@@ -3,7 +3,7 @@ title: "Potential factors that affect alcohol consumption"
 subtitle: "A analysis of data from the 2016 General Social Survey on Canadians at Home and Work"
 author: 
   - Qingya Li
-thanks: "Code and data are available at: LINK."
+thanks: "Code and data are available at: https://github.com/QingyaLi/Potential-factors-that-affect-alcohol-consumption.git."
 date: "`r format(Sys.time(), '%d %B %Y')`"
 abstract: "The paper inputs the data from the 2016 General Social Survey (GSS) on Canadians at Home and Work. By conducting graphs and models, we found alcoholic beverages are positively associated with the individual's sex and highest education level. The findings may help the researchers study the individual motivation for drinking and enhance the persuasiveness of other alcohol studies."
 output:

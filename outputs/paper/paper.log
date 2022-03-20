@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.3.8)  20 MAR 2022 17:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.3.8)  20 MAR 2022 18:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -517,43 +517,43 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 {/Users/liqingya/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2] [3]
-<paper_files/figure-latex/fig1-1.pdf, id=72, 712.6625pt x 421.575pt>
+<paper_files/figure-latex/fig1-1.pdf, id=73, 712.6625pt x 421.575pt>
 File: paper_files/figure-latex/fig1-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/fig1-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/fig1-1.pdf  used on input lin
 e 176.
 (pdftex.def)             Requested size: 469.74974pt x 277.88011pt.
-<paper_files/figure-latex/fig2-1.pdf, id=73, 712.6625pt x 423.5825pt>
+<paper_files/figure-latex/fig2-1.pdf, id=74, 712.6625pt x 423.5825pt>
 File: paper_files/figure-latex/fig2-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/fig2-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/fig2-1.pdf  used on input lin
 e 182.
 (pdftex.def)             Requested size: 469.74974pt x 279.20337pt.
-<paper_files/figure-latex/fig3-1.pdf, id=74, 712.6625pt x 421.575pt>
+<paper_files/figure-latex/fig3-1.pdf, id=75, 712.6625pt x 421.575pt>
 File: paper_files/figure-latex/fig3-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/fig3-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/fig3-1.pdf  used on input lin
 e 188.
 (pdftex.def)             Requested size: 469.74974pt x 277.88011pt.
-<paper_files/figure-latex/fig4-1.pdf, id=75, 712.6625pt x 421.575pt>
+<paper_files/figure-latex/fig4-1.pdf, id=76, 712.6625pt x 421.575pt>
 File: paper_files/figure-latex/fig4-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/fig4-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/fig4-1.pdf  used on input lin
 e 194.
 (pdftex.def)             Requested size: 469.74974pt x 277.88011pt.
-<paper_files/figure-latex/fig5-1.pdf, id=76, 710.655pt x 421.575pt>
+<paper_files/figure-latex/fig5-1.pdf, id=77, 710.655pt x 421.575pt>
 File: paper_files/figure-latex/fig5-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/fig5-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/fig5-1.pdf  used on input lin
 e 200.
 (pdftex.def)             Requested size: 469.77112pt x 278.67778pt.
-<paper_files/figure-latex/fig6-1.pdf, id=77, 710.655pt x 421.575pt>
+<paper_files/figure-latex/fig6-1.pdf, id=78, 710.655pt x 421.575pt>
 File: paper_files/figure-latex/fig6-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/fig6-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/fig6-1.pdf  used on input lin
 e 206.
 (pdftex.def)             Requested size: 469.77112pt x 278.67778pt.
-<paper_files/figure-latex/fig7-1.pdf, id=78, 710.655pt x 421.575pt>
+<paper_files/figure-latex/fig7-1.pdf, id=79, 710.655pt x 421.575pt>
 File: paper_files/figure-latex/fig7-1.pdf Graphic file (type pdf)
 <use paper_files/figure-latex/fig7-1.pdf>
 Package pdftex.def Info: paper_files/figure-latex/fig7-1.pdf  used on input lin
@@ -563,27 +563,27 @@ e 212.
 -1.pdf> <./paper_files/figure-latex/fig3-1.pdf>] [6 <./paper_files/figure-latex
 /fig4-1.pdf> <./paper_files/figure-latex/fig5-1.pdf>] [7 <./paper_files/figure-
 latex/fig6-1.pdf> <./paper_files/figure-latex/fig7-1.pdf>] [8] [9] [10]
-<pic1.png, id=205, 785.93625pt x 326.21875pt>
+<pic1.png, id=206, 785.93625pt x 326.21875pt>
 File: pic1.png Graphic file (type png)
 <use pic1.png>
 Package pdftex.def Info: pic1.png  used on input line 371.
 (pdftex.def)             Requested size: 469.76653pt x 194.9861pt.
-<pic2.png, id=207, 775.89874pt x 514.92375pt>
+<pic2.png, id=208, 775.89874pt x 514.92375pt>
 File: pic2.png Graphic file (type png)
 <use pic2.png>
 Package pdftex.def Info: pic2.png  used on input line 372.
 (pdftex.def)             Requested size: 469.75761pt x 311.75375pt.
-<pic3.png, id=208, 771.88374pt x 662.475pt>
+<pic3.png, id=209, 771.88374pt x 662.475pt>
 File: pic3.png Graphic file (type png)
 <use pic3.png>
 Package pdftex.def Info: pic3.png  used on input line 373.
 (pdftex.def)             Requested size: 469.75304pt x 403.16907pt.
-<pic4.png, id=209, 776.9025pt x 566.115pt>
+<pic4.png, id=210, 776.9025pt x 566.115pt>
 File: pic4.png Graphic file (type png)
 <use pic4.png>
 Package pdftex.def Info: pic4.png  used on input line 374.
 (pdftex.def)             Requested size: 469.76073pt x 342.30627pt.
-<pic5.png, id=210, 772.8875pt x 566.115pt>
+<pic5.png, id=211, 772.8875pt x 566.115pt>
 File: pic5.png Graphic file (type png)
 <use pic5.png>
 Package pdftex.def Info: pic5.png  used on input line 375.
@@ -594,12 +594,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 371--376
  []
 
 [11 <./pic1.png> <./pic2.png>] [12 <./pic3.png>] [13 <./pic4.png>]
-<pic6.png, id=230, 774.895pt x 517.935pt>
+<pic6.png, id=231, 774.895pt x 517.935pt>
 File: pic6.png Graphic file (type png)
 <use pic6.png>
 Package pdftex.def Info: pic6.png  used on input line 377.
 (pdftex.def)             Requested size: 469.76476pt x 313.98782pt.
-<pic7.png, id=231, 772.8875pt x 555.07375pt>
+<pic7.png, id=232, 772.8875pt x 555.07375pt>
 File: pic7.png Graphic file (type png)
 <use pic7.png>
 Package pdftex.def Info: pic7.png  used on input line 378.
@@ -623,7 +623,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  11534 strings out of 480236
  181120 string characters out of 5894788
- 474949 words of memory out of 5000000
+ 475029 words of memory out of 5000000
  29192 multiletter control sequences out of 15000+600000
  535921 words of font info for 79 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -647,10 +647,10 @@ s/type1/public/lm/lmr8.pfb></Users/liqingya/Library/TinyTeX/texmf-dist/fonts/ty
 pe1/public/lm/lmr9.pfb></Users/liqingya/Library/TinyTeX/texmf-dist/fonts/type1/
 public/lm/lmri10.pfb></Users/liqingya/Library/TinyTeX/texmf-dist/fonts/type1/pu
 blic/lm/lmsy10.pfb>
-Output written on paper.pdf (17 pages, 771515 bytes).
+Output written on paper.pdf (17 pages, 774591 bytes).
 PDF statistics:
- 430 PDF objects out of 1000 (max. 8388607)
- 341 compressed objects within 4 object streams
+ 431 PDF objects out of 1000 (max. 8388607)
+ 342 compressed objects within 4 object streams
  79 named destinations out of 1000 (max. 500000)
  199 words of extra memory for PDF output out of 10000 (max. 10000000)
 
